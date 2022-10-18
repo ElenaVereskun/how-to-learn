@@ -9,7 +9,7 @@
   height: 100vh;
   min-height: 600px;
   max-height: 756px;
-  background-color:#f2f2f2 ;
+  background-color:#f2f2f2;
   z-index: -1;
 }
 .header__logo_place{
@@ -108,7 +108,6 @@
   font-size: 60px;
   line-height:1.15;
   font-weight: 600;
-  margin-right: auto;
   margin-right: auto;
 }
 .section-subtitle{
