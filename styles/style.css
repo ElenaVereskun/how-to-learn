@@ -20,7 +20,6 @@
   top: 30px;
   left: 64px;
 }
-
 .header__title{
   display: flex;
   align-items: center;
@@ -29,10 +28,8 @@
   font-size: 102px;
   line-height:96px;
   z-index: 2;
-
 }
 .header__subtitle{
-  display:flex;
   position: absolute;
   bottom:30px;
   width: 388px;
@@ -266,7 +263,7 @@ width: 200px;
   justify-content: flex-end;
   }
   .footer__column_content_social{
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
   }
