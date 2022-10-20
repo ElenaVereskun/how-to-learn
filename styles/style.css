@@ -189,13 +189,12 @@
   background-color: #1f1f1f;
   overflow: hidden;
   color: white;
-  z-index: -2;
   padding-top: 90px;
   padding-bottom: 90px;
 }
 .kaufman_triangle{
   position: absolute;
-  background-image: url(../images/kaufman-triangle.svg);
+  background-image: url('images/kaufman-triangle.svg');
   width: 877px;
   height: 877px;
   top: 0px;
@@ -214,7 +213,6 @@
   display: flex;
   position: relative;
   justify-content: space-between;
-  z-index: 2;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 90px;
@@ -270,4 +268,9 @@ width: 200px;
   list-style: none;
   padding-bottom: 16px;
   padding-left: 0px;
+}
+.footer__social-icon{
+  height: 16px;
+  width: 16px;
+  padding-right: 10px;
 }
