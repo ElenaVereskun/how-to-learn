@@ -6,11 +6,11 @@
 }
 .header {
   display: flex;
+  position: relative;
   height: 100vh;
   min-height: 600px;
   max-height: 756px;
   background-color:#f2f2f2;
-  z-index: -1;
 }
 .header__logo_place{
   display: flex;
@@ -27,7 +27,6 @@
   padding-left: 64px;
   font-size: 102px;
   line-height:96px;
-  z-index: 2;
 }
 .header__subtitle{
   position: absolute;
@@ -37,12 +36,10 @@
   font-size: 18px;
   line-height:25px;
   font-weight: bold;
-  z-index: 3;
 }
 .header_main-illustration{
   display: flex;
   position: absolute;
-  flex-wrap: wrap;
   right: 0px;
   bottom: 0px;
   width: 765px;
