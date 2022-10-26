@@ -143,6 +143,7 @@
   margin-right: auto;
   margin-top: 0px;
   margin-bottom: 0px;
+  padding-left: 0px;
   row-gap: 60px;
 }
 .table__cell {
