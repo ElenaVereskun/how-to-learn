@@ -8,4 +8,8 @@
   background-size: cover;
   object-fit: cover;
   z-index: -1;
+  animation-name: rotation;
+  animation-timing-function: linear;
+  animation-duration: 20s;
+  animation-iteration-count:infinite;
 }
