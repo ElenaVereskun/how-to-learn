@@ -1,4 +1,4 @@
-@import url(normalize.css);
+@import url(/vendor/normalize.css);
 @import url(../cards/cards.css);
 @import url(../cards/__description/cards__description.css);
 @import url(../cards/__image/cards__image.css);
@@ -42,7 +42,7 @@
 @import url(../logo/_place/logo_place_footer.css);
 @import url(../logo/_place/logo_place_header.css);
 @import url(../oakley/oakley.css);
-@import url(../page/page.css);
+@import url(page.css);
 @import url(../resources/resources.css);
 @import url(../resources/__link/resources__link.css);
 @import url(../resources/__logo-zone/resources__logo-zone.css);
